@@ -7,4 +7,4 @@ Each day gets one file (`YYYY-MM-DD.md`) answering three questions:
 - What confused me
 - What's next tomorrow
 
-**Stack I'm learning:** Python, SQL, PostgreSQL, FastAPI, AWS, Docker, Airflow, dbt
+**Stack I'm learning:** Python, SQL, PostgreSQL, FastAPI, AWS, Docker, Airflow, dbt.
